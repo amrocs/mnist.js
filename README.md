@@ -1,4 +1,4 @@
 # mnist.js
 javascript MNIST library
 
-see [Demo](http://amrocs.github.io/tnist_demo.html "demo")
+see [Demo](http://amrocs.github.io/mnist_demo.html "demo")
