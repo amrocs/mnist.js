@@ -19,7 +19,7 @@ var Mnist = function(argOptions){
         LoopIncrementCountOfEachTimeout: 10,
     };
     
-    //mnist object
+    //mnist object 
     var my = {
         data: {
             train:{
